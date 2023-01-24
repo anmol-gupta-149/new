@@ -1,0 +1,10 @@
+<<<<<<< Updated upstream
+=======
+Changes made by master branch
+
+class NewName{
+    System.out,println("Hello World!");
+    };
+
+
+>>>>>>> Stashed changes
